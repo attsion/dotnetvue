@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EEQG.Data\EEQG.Data.csproj" />
+    <ProjectReference Include="..\EEQG.Data\EEQG.DataCore.csproj" />
     <ProjectReference Include="..\Eeqg.Tools\EEQG.Tools.csproj" />
   </ItemGroup>
 
