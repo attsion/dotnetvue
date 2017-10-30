@@ -28,9 +28,9 @@ Obj/
 
 # Visual Studio 2015 cache/options directory
 .vs/
-/src/EEQG.SpaWeb/wwwroot/dist/
+src/EEQG.SpaWeb/wwwroot/dist/
 
-/src/EEQG.SpaWeb/yarn.lock
+src/EEQG.SpaWeb/yarn.lock
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -137,7 +137,7 @@ DocProject/Help/Html2
 DocProject/Help/html
 
 # Click-Once directory
-/src/EEQG.SpaWeb/publish/
+src/EEQG.SpaWeb/publish/
 
 # Publish Web Output
 *.[Pp]ublish.xml
@@ -187,7 +187,7 @@ ClientBin/
 *.publishsettings
 orleans.codegen.cs
 
-/src/EEQG.SpaWeb/node_modules
+src/EEQG.SpaWeb/node_modules
 
 # RIA/Silverlight projects
 Generated_Code/
