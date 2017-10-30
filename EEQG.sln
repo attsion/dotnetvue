@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EEQG.Tools", "src\Eeqg.Tool
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EEQG.Data", "src\EEQG.ServerData\EEQG.Data.csproj", "{5C42C0A0-C28D-4B0E-B3FD-F1869BA13085}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EEQG.DataCore", "src\EEQG.Data\EEQG.DataCore.csproj", "{85411759-6447-4EE6-90C3-A0085F5206E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EEQG.Data.Core", "src\EEQG.Data\EEQG.Data.Core.csproj", "{85411759-6447-4EE6-90C3-A0085F5206E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
